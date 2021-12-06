@@ -3,7 +3,7 @@
 ### This is a Static web application
 
 To get started and run the app:
-https://chawlaamal170401.github.io/Emft/
+https://chawlaamal170401.github.io/Electric-Filter/
 
 Features Of the application:
 
